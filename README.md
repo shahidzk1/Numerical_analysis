@@ -14,7 +14,7 @@ Go to the main branch
       git checkout main
       ```
       
-Run a notebook
+Run a jupyter notebook
       ```
-      jupyter /path/to/Numerical_analysis/week1/xyz.ipynb
+      jupyter notebook
       ```
