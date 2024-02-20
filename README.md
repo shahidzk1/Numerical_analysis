@@ -6,11 +6,13 @@ Clone the repository:
       ```
       git clone https://github.com/shahidzk1/Numerical_analysis.git
       ```
+
 cd /path/to/Numerical_analysis
 Go to the main branch
       ```
       git checkout main
       ```
+      
 Run a notebook
       ```
       jupyter /path/to/Numerical_analysis/week1/xyz.ipynb
